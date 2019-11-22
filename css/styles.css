@@ -64,7 +64,7 @@ button:hover {
 }
 
 .two-class-container {
-  
+  height: 285px;
 }
 
 .price-container {
@@ -73,6 +73,7 @@ button:hover {
   border-bottom-left-radius: 10px;
   padding-left: 40px;
   padding-right: 40px;
+  height: 100%;
 }
 
 .why-us-container {
@@ -80,6 +81,7 @@ button:hover {
   display: inline-block;
   border-bottom-right-radius: 10px;
   padding-right: 100px;
+  height: 100%;
 }
 
 .title-sentence {
