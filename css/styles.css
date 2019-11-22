@@ -115,3 +115,9 @@ button:hover {
   padding-top: 20px;
   padding-left: 40px;
 }
+
+.footer {
+  color: black;
+  font-size: 12px;
+  margin-top: 40px;
+}
