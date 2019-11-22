@@ -1,0 +1,111 @@
+body {
+  font-family: 'Karla', sans-serif;
+  text-align: center;
+  background-color: rgba(240, 240, 240);
+}
+
+h2 {
+  color: rgba(43, 179, 177);
+}
+
+h3 {
+  color: white;
+  font-weight: 400;
+}
+
+ul {
+  list-style-type: none;
+  margin-bottom: 72px;
+}
+
+li {
+  color: rgba(197, 241, 241);
+}
+
+p {
+  color: white;
+}
+
+button {
+  background-color: rgba(192, 215, 75);
+  border: none;
+  color: white;
+  padding: 15px 91px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 6px;
+  margin: 20px auto 45px auto;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  font-weight: 600;
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: rgba(192, 215, 0);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.component-container {
+  display: inline-block;
+  position: relative;
+  margin: 10% auto auto auto;
+  text-align: left;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  border-radius: 11px;
+}
+
+.title-container {
+  background-color: white;
+  padding: 30px 100px 30px 40px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.price-container {
+  background-color: rgba(43, 179, 177);
+  float: left;
+  border-bottom-left-radius: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.why-us-container {
+  background-color: rgba(74, 190, 189);
+  display: inline-block;
+  border-bottom-right-radius: 10px;
+  padding-right: 100px;
+}
+
+.title-sentence {
+  color: rgba(164, 168, 179);
+  font-weight: 400;
+  line-height: 2;
+  margin-top: 8px;
+}
+
+.money-back-heading {
+  color: rgba(192, 215, 75);
+  margin-bottom: 8px;
+  font-weight: 700;
+}
+
+.price-heading {
+  padding-top: 20px;
+}
+
+.price {
+  font-size: 35px;
+  padding-right: 5px;
+  color: white;
+}
+
+.period {
+  color: rgba(197, 241, 241);
+}
+
+.why-us-heading {
+  padding-top: 20px;
+  padding-left: 40px;
+}
